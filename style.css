@@ -1,0 +1,102 @@
+.center{
+    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMcDUGn2rITNGyVgXX2lDh_TjuJFn7eeviI9OBWAwkkKff2LZl);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.green{
+    background-color: rgb(66, 104, 66);
+    color: white;
+}
+.div1{
+  display: grid;
+  grid-template-columns: repeat(7,1fr);  
+}
+.whitetext{
+    font-size: larger;
+}
+.boldwhite{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100%;
+}
+.button{
+padding: 24px;
+width: 25%;
+background-color: grey;
+border-radius: 15%;
+
+
+}
+.center1{
+    text-align: center; 
+    border: solid black 1px;
+    padding: 30px;
+    font-size: x-large;
+}
+.div2{
+    display: flex;
+    gap: 5px;
+}
+.boldblack{
+    font-size: larger;
+}
+.greentext{
+    color: rgb(57, 88, 57);
+}
+.graytext{
+color: gray;
+}
+.greenbutton{
+    padding: 24px;
+width: 25%;
+background-color: rgb(57, 88, 57);
+border-radius: 15%;
+}
+.whitebutton{
+    padding: 24px;
+width: 25%;
+background-color: white;
+border-radius: 15%; 
+
+}
+.lightgreen{
+    background-color: rgb(191, 218, 223);
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.center{
+    text-align: center;
+}
+.div3{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 3%;
+}
+.img1{
+    border-radius: 10%;
+    width: 60%;
+    height: 60%;
+}
+.div4{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+image1{
+    width: 20%;
+    height: 20%;
+}
+.div5{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.image4{
+
+}
+.div6{
+    display: grid;
+    grid-template-columns: repeat(7,1fr);
+}
+
+
+
+
